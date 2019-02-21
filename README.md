@@ -1,7 +1,7 @@
 ![HitCount](http://hits.dwyl.io/aaronfagan/template-webmail-login.svg)
 # Webmail Login Template
 A simple webmail login form.
-- [View Demo](https://cdn.aaronfagan.ca/demo/web/template-webmail-login/)
+- [View Demo](https://cdn.aaronfagan.ca/demo/web/webmail-login/)
 
 # Contributors
 
