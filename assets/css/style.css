@@ -1,0 +1,27 @@
+body { margin:0; background:#EEE; font-family:'Open Sans'; color:#333; font-size:13px; -webkit-text-size-adjust:100%; }
+.msg { display:none; padding:0; margin:0 0 15px 0; }
+#error { display:table; border:2px solid #be0000; padding:5px 10px; border-radius:3px; }
+#error div, #error i { display:table-cell; }
+#error p { margin:0; }
+#error i { color:#be0000; vertical-align:middle; font-size:22px; padding:0 10px 0 0; }
+#error .text { width:100% !important; padding:3px 0; }
+h1 { font-weight:normal; }
+h1 i { margin:0 20px 0 0; }
+a { color:#770000; text-decoration:none; }
+a i { margin:0 10px 0 0; }
+a:hover { color:#b90711; }
+#wrap { background:#FFF; width:100%; border-top:1px solid #ccc; border-bottom:1px solid #ccc; margin:50px 0 0 0; }
+.content { margin:0 auto; max-width:450px; padding:0 15px; }
+input[type="submit"] { width:200px; display:inline-block; text-align:center; background:#770000; padding:13px 29px; text-transform:uppercase; color:#fff; font-size:14px; font-family: 'Open Sans'; border:0; border-radius:2px; cursor:pointer; transition:background .2s; -webkit-appearance:none; white-space:nowrap; }
+input[type="submit"]:hover { background:#b90711; }
+input[type="text"], input[type="email"], input[type="password"] { font-family:'Open Sans'; font-size:14px; width:100%; box-sizing:border-box; background:#f9f9f9; padding:10px; border:1px solid #aaa; border-radius:3px; -webkit-appearance:none !important; }
+input[type="checkbox"] { margin:0 10px 0 0; }
+.btnIcon { display:table; height:45px; text-align:center; text-transform:uppercase; background:#770000; padding:0; margin:0; color:#fff; border:0; font-size:14px; line-height:14px; font-family: 'Open Sans'; border-radius:2px; cursor:pointer; transition:background-color .2s; -webkit-appearance:none; white-space:nowrap; }
+.btnIcon span { display:table-cell; height:45px; vertical-align:middle; }
+.btnIcon .icon { padding:0 15px; border-right:1px solid #fff; }
+.btnIcon .text { padding:0 50px; }
+.btnIcon:hover { background-color:#b90711; }
+#copyright { text-align:center; font-size:10px; text-transform:uppercase; margin:25px 0; }
+.center { text-align:center; }
+.line { margin:15px 0; border-bottom:1px solid #ccc; }
+.spacer { height:15px; }
