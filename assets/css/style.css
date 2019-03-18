@@ -16,11 +16,11 @@ input[type="submit"] { width:200px; display:inline-block; text-align:center; bac
 input[type="submit"]:hover { background:#b90711; }
 input[type="text"], input[type="email"], input[type="password"] { font-family:'Open Sans'; font-size:14px; width:100%; box-sizing:border-box; background:#f9f9f9; padding:10px; border:1px solid #aaa; border-radius:3px; -webkit-appearance:none !important; }
 input[type="checkbox"] { margin:0 10px 0 0; }
-.btnIcon { display:table; height:45px; text-align:center; text-transform:uppercase; background:#770000; padding:0; margin:0; color:#fff; border:0; font-size:14px; line-height:14px; font-family: 'Open Sans'; border-radius:2px; cursor:pointer; transition:background-color .2s; -webkit-appearance:none; white-space:nowrap; }
-.btnIcon span { display:table-cell; height:45px; vertical-align:middle; }
-.btnIcon .icon { padding:0 15px; border-right:1px solid #fff; }
-.btnIcon .text { padding:0 50px; }
-.btnIcon:hover { background-color:#b90711; }
+.btn { display:table; height:45px; text-align:center; text-transform:uppercase; background:#770000; padding:0; margin:0; color:#fff; border:0; font-size:14px; line-height:14px; font-family: 'Open Sans'; border-radius:2px; cursor:pointer; transition:background-color .2s; -webkit-appearance:none; white-space:nowrap; }
+.btn span { display:table-cell; height:45px; vertical-align:middle; }
+.btn .icon { padding:0 15px; border-right:1px solid #fff; }
+.btn .text { padding:0 50px; }
+.btn:hover { background-color:#b90711; }
 #copyright { text-align:center; font-size:10px; text-transform:uppercase; margin:25px 0; }
 .center { text-align:center; }
 .line { margin:15px 0; border-bottom:1px solid #ccc; }
