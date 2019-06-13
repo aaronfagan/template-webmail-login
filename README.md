@@ -6,12 +6,12 @@ A simple webmail login form.
 
 ### index.html
 <p align="center">
-  <img src="https://github.com/aaronfagan/template-webmail-login/blob/master/_demo/index.png?raw=true" alt="index.html"/>
+  <img src="https://github.com/aaronfagan/template-webmail-login/blob/master/.demo/index.png?raw=true" alt="index.html"/>
 </p>
 
 ### 404.html
 <p align="center">
-  <img src="https://github.com/aaronfagan/template-webmail-login/blob/master/_demo/404.png?raw=true" alt="index.html"/>
+  <img src="https://github.com/aaronfagan/template-webmail-login/blob/master/.demo/404.png?raw=true" alt="index.html"/>
 </p>
 
 # Contributors
