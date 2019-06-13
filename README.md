@@ -1,6 +1,5 @@
 # Template - Webmail Login
 A simple webmail login form.
-- [View Demo](https://cdn.aaronfagan.ca/demo/web/webmail-login/)
 
 ## Demo
 
