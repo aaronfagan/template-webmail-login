@@ -12,6 +12,3 @@ A simple webmail login form.
 <p align="center">
   <img src="https://github.com/aaronfagan/template-webmail-login/blob/master/.demo/404.png?raw=true" alt="index.html"/>
 </p>
-
-# Contributors
-* Aaron Fagan - [Github](https://github.com/aaronfagan), [Website](https://www.aaronfagan.ca/)
