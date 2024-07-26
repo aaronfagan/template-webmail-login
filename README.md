@@ -5,10 +5,10 @@ A simple webmail login form.
 
 ### index.html
 <p align="center">
-  <img src="https://github.com/aaronfagan/template-webmail-login/blob/master/.demo/index.png?raw=true" alt="index.html"/>
+  <img src=".demo/index.png?raw=true" alt="index.html"/>
 </p>
 
 ### 404.html
 <p align="center">
-  <img src="https://github.com/aaronfagan/template-webmail-login/blob/master/.demo/404.png?raw=true" alt="index.html"/>
+  <img src=".demo/404.png?raw=true" alt="index.html"/>
 </p>
